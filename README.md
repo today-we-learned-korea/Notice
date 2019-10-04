@@ -4,6 +4,8 @@ Today I Learned의 단체 버전을 만들고 싶어 이 Organization를 만들�
 
 Organizaition 규칙과 Repository 작성 컨벤션에 대해서 설명하겠습니다.
 
+가입 신청 주소 : [https://choiheejae.typeform.com/to/rQOMHB](https://choiheejae.typeform.com/to/rQOMHB)
+
 ## 🤝 Organization 규칙
 
 1. 어떤 주제에 상관 없이 오늘 공부한 내용을 commit 할 수 있다.
